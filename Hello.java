@@ -4,5 +4,7 @@ public class Hello {
 		run.gc();
 		System.out.println("Hello GIT");
 		System.out.println("Hello 2222");
+		System.out.println("www.mldnjava.com");
+		System.out.println("www.mldn.com");
 	}
 }
